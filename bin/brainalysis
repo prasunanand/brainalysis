@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+#
+# brainalysis gem
+# Author:: Prasun Anand
+# License:: MIT
+#
+# Copyright (C) 2016-2017 Prasun Anand <prasunanand.bitsp@gmail.com>
+
+USAGE = "Analyse EEG data"

@@ -1,1 +1,1 @@
-require 'brainalysis/brainalysis.rb'
+require_relative './brainalysis/brainalysis.rb'

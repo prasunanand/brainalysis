@@ -9,6 +9,7 @@ Gem::Specification.new do |gem|
   gem.files       = ["lib/brainalysis.rb"]
   gem.homepage    = 'http://rubygems.org/gems/brainalysis'
   gem.license     = 'MIT'
+  gem.add_runtime_dependency 'nmatrix'
   gem.add_development_dependency 'rubocop'
   gem.add_development_dependency 'bundler', '~>1.6'
   gem.add_development_dependency 'json'

@@ -1,2 +1,2 @@
 require 'nmatrix'
-require 'io/eeg.rb'
+require_relative './io/egi/egi.rb'
